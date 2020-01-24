@@ -136,10 +136,12 @@ body{
 /* projects */
 
 .projects{
-    background: linear-gradient(0deg, #000000 0%, rgba(0, 0, 0, 0) 95.44%);
-    transform: matrix(1, 0, 0, -1, 0, 0);
-}
+    background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 95.44%);
 
+}
+.section-projects .section-title{
+    margin-top: 0px;
+}
 .project-slide{
     display: flex;
     align-items: start;
